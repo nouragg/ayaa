@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  challenge3
+
+  Created by Noura Alharbi on 16/06/1444 AH.
+  
+*/
+
+"start"="إبدأ";
+"heardLetter"="ما هذا الحرف؟";
+"write"="اكتب";
+"listen"="استمع";
+"tryAgain"="حاول مرة أخرى";
+"correct"="أحسنت";
+"again"="مرة أخرى";
+"next"="التالي";
+

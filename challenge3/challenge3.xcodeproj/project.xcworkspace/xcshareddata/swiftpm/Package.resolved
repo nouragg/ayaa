@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftuimargin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/karamage/SwiftUIMargin.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c17a57dddfeb18fb93d5eec14cc8574cac31b39d"
+      }
+    }
+  ],
+  "version" : 2
+}
